@@ -24,8 +24,8 @@ To run these projects, follow these steps:
 
 1. **Clone this repository** to your local machine:
     ```bash
-    git clone https://github.com/PraveenLiyanage/10-Theano-Code-Examples.git
-    cd 10-Theano-Code-Examples
+    git clone https://github.com/PraveenLiyanage/Theano-Library-Code-Examples.git
+    cd Theano-Library-Code-Examples
     ```
 
 2. **Open Google Colab:**
